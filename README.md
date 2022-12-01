@@ -23,7 +23,7 @@
 
 
 > ## The duplicated values and drop it by this button, Overview for the statstics 
-![06](https://user-images.githubusercontent.com/76665270/205025917-ed2a8cfe-c67f-47c9-8331-4608ba01d19e.png)
+![06](https://user-images.githubusercontent.com/76665270/205028743-6bd40934-2d89-4320-9f02-4dc3b20b18bf.png)
 
 
 > ## Ploting a bar chart for the data by selecting from the columns
