@@ -2,8 +2,7 @@
 
 
 > ## App Interface
-
-![01](https://user-images.githubusercontent.com/76665270/205023852-b2621c33-38e7-43d9-a130-4092826f5729.png)
+![01](https://user-images.githubusercontent.com/76665270/205028972-f3ffdd6e-244c-4d1a-9419-2e2e93329659.png)
 
 
 > ## Showing all the qureies we are able to do for data
